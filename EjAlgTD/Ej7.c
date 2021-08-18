@@ -1,3 +1,6 @@
+/*
+Escribir un programa que imprima el valor de sen(2t) + sen(3t). Siendo t un argumento del programa, de tipo double.
+*/
 #define _USE_MATH_DEFINES
 #include <stdio.h>
 #include <stdlib.h>
