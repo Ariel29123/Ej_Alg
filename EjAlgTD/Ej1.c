@@ -1,3 +1,5 @@
+/*Escribir un programa que use cos() y sin() definidos en math.h para imprimir el valor de cos2θ + sen2θ para cualquier θ ingresado como argumento.
+*/
 #define _USE_MATH_DEFINES
 #include <stdio.h>
 #include <stdlib.h>
