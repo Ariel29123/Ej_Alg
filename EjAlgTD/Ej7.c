@@ -11,6 +11,7 @@ int main(int argc, char const *argv[])
     double theta = atof(argv[1]);
     double thetarad = (theta * M_PI) / 180;
     double r = sin(2*thetarad) + sin(3*thetarad);
-    printf("%f rad", r);
+     double thetadeg= (r * 180) / M_PI;
+    printf("%f rad", rthetadeg);
     return 0;
 }
